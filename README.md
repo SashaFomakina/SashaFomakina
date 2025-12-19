@@ -10,7 +10,9 @@ Infrastructure automation | CI/CD pipelines | Container orchestration | DevSecOp
 
 **Open to:** Middle DevOps Engineer roles focused on infrastructure automation, security integration, and reliability engineering.
 
- **Telegram** for quick chat | @Fomakinaa
+ **Telegram** for quick chat |  <a href="https://t.me/@Fomakinas">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 
 <!--
 **SashaFomakina/SashaFomakina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
